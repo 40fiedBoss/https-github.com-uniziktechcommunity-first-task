@@ -66,3 +66,14 @@ Format is as given below:
    Skills: 3D Modelling <br />
    Facebook: Ndukwu Augustine Anene <br />
    Github: @Augustinetech <br />
+   
+   -----------------------------------------------
+7. Name: Ilodibe Chibueze David  <br />
+   Email: Chibuezedave1@gmail.com <br />
+   Learning Track: Graphics design <br />
+   Skills: Media tech <br />
+   Facebook: Chibueze Dav <br />
+   Github: @40fiedBoss <br />
+
+
+
